@@ -1,5 +1,5 @@
 .search-input-submit {fill: #FFFFFF!important;}
-.search-input-submit:before {
+/* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
     font-size: 12px;
@@ -8,4 +8,4 @@
     display: unset!important;
     left: 12px;
     top: -3px;
-}
+} */
