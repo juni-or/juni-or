@@ -4,6 +4,13 @@ background: rgb(255, 255, 255, 0.8)!important;
     backdrop-filter: blur(7px)!important;
     box-shadow: 0 2px 10px 0 rgb(0, 0, 0, 0.6)!important;
 }
+.subutility-list .contact-link svg {
+    fill: #000!important;
+    font-size: 15px;
+}
+.store-bar {
+    display: none!important;
+}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
