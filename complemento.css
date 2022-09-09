@@ -25,6 +25,7 @@ background: rgb(255, 255, 255, 0.8)!important;
     backdrop-filter: blur(7px)!important;
     box-shadow: 0 1px 6px rgb(0 0 0 / 10%)!important;
 }
+.item-image img {pointer-events: none;}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
