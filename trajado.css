@@ -39,6 +39,15 @@ background: rgb(255, 255, 255, 0.8)!important;
     color: #000!important;
     fill: #000!important;
 }
+.svg-icon-text.svg-solid {
+    line-height: 42px;
+    background: #f5f5f5;
+    border: 0px;
+    fill: #000;
+}
+.svg-icon-text.svg-solid svg {
+    font-size: 1.3em;
+}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
