@@ -88,6 +88,33 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
 .form-control-container .form-control.js-quantity-input.form-control-inline, .form-control.js-cart-quantity-input.text-center.h6.form-control-inline {
     border: unset!important;
 }
+.head-primary .search-suggest {
+    background: rgb(255, 255, 255, 0.9)!important;
+    backdrop-filter: blur(7px)!important;
+    box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 0.1)!important;
+    margin-top: 10px;
+}
+.head-primary .search-suggest  a {
+    color: #000;
+    fill: #000;
+}
+.search-suggest {
+    border-radius: 8px;
+}
+.search-suggest-image-container img {
+    border-radius: 8px;
+}
+.head-primary .search-suggest .search-suggest-item {
+    border-bottom: 1px solid rgb(0 0 0 / 3%);
+}
+.head-primary .search-suggest .search-suggest-item:hover {
+    background: rgb(255 255 255 / 60%);
+    border-radius: 8px;
+    border-color: transparent;
+}
+.head-primary .search-suggest a.btn {
+    background: rgb(255 255 255 / 50%);
+}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
