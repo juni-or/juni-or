@@ -82,6 +82,9 @@ background: rgb(255, 255, 255, 0.8)!important;
 .slider-slide img {
     border-radius: 8px!important;
 }
+section[data-store="slider-main"] .svg-icon-text.svg-solid {
+    background: transparent;
+}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
