@@ -114,6 +114,9 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
 }
 .head-primary .search-suggest a.btn {
     background: rgb(255 255 255 / 50%);
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
 }
 /* .search-input-submit:before {
     content: "pesquisar";
