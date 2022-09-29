@@ -118,6 +118,17 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
     margin-right: auto;
     margin-left: auto;
 }
+.modal-right{border-radius: 0!important;}
+.modal-header:hover, .modal-header:focus {
+    background-color: #083fb3;
+    color: #fff;
+    fill: #fff;
+    border-bottom: 1px solid #fff;
+    opacity: 0.8;
+}
+.modal-close{border: 0!important;top: 14px;}
+.radio-button-icons-container {left: -1px;}
+.radio-button-content{padding: 19px;}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
