@@ -79,6 +79,9 @@ background: rgb(255, 255, 255, 0.8)!important;
     margin-left: auto;
     margin-top: 20px;
 }
+.slider-slide img {
+    border-radius: 8px!important;
+}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
