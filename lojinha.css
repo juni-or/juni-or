@@ -86,7 +86,7 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
     background: transparent;
 }
 .form-control-container .form-control.js-quantity-input.form-control-inline, .form-control.js-cart-quantity-input.text-center.h6.form-control-inline {
-    border: unset;
+    border: unset!important;
 }
 /* .search-input-submit:before {
     content: "pesquisar";
