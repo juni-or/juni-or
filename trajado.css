@@ -48,6 +48,37 @@ background: rgb(255, 255, 255, 0.8)!important;
 .svg-icon-text.svg-solid svg {
     font-size: 1.3em;
 }
+
+@media (min-width: 1400px) {
+  .js-home-main-slider-container {
+    max-width: 1300px!important;
+  }
+}
+@media (min-width: 1200px)
+.js-home-main-slider-container {
+    max-width: 1140px!important;
+}
+
+@media (min-width: 992px)
+.js-home-main-slider-container {
+    max-width: 960px!important;
+}
+@media (min-width: 768px)
+.js-home-main-slider-container {
+    max-width: 720px!important;
+}
+@media (min-width: 576px)
+.js-home-main-slider-container {
+    max-width: 540px!important;
+}
+.js-home-main-slider-container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
