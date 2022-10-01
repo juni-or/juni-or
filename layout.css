@@ -138,6 +138,9 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
 .js-swiper-brands .slide-container {
     max-width: 120px!important;
 }
+.nav-secondary .nav-account svg {
+    fill: #fff!important;
+}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
