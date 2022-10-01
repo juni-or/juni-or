@@ -49,7 +49,8 @@ background: rgb(255, 255, 255, 0.8)!important;
 
 @media screen and (max-width: 768px) and (min-width: 300px){
 .js-swiper-brands .slide-container {width: 100px!important;}
-.service-item-container{padding: 0!important;padding-left: 0px!important;}
+.service-item-container{padding: 0!important;}
+.service-item-container .col-auto {padding-left: 0!important;}
 .service-item-container .service-item {margin: -4px -4px 0 -4px;}
 .section-informative-banners .col-auto:before{width: 60px!important;height: 60px!important;}
 }
