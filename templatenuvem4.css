@@ -45,16 +45,13 @@ background: rgb(255, 255, 255, 0.8)!important;
     border: 0px;
     fill: #000;
 }
-.svg-icon-text.svg-solid svg {
-    font-size: 1.3em;
-}
+.svg-icon-text.svg-solid svg {font-size: 1.3em;}
+
 @media screen and (max-width: 768px) and (min-width: 300px){
-.js-swiper-brands .slide-container {
-    width: 100px!important; 
-}
+.js-swiper-brands .slide-container {width: 100px!important;}
 .service-item-container{padding: 0!important;}
-.service-item-container .col-auto{padding-left: 0!important;}
-.section-informative-banners .col-auto:before{width: 60px;height: 60px}
+.service-item-container .service-item {margin: -4px -4px 0 -4px;}
+.section-informative-banners .col-auto:before{width: 60px!important;height: 60px!important;}
 }
 
 @media (min-width: 1400px) {
