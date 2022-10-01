@@ -48,6 +48,14 @@ background: rgb(255, 255, 255, 0.8)!important;
 .svg-icon-text.svg-solid svg {
     font-size: 1.3em;
 }
+@media screen and (max-width: 768px) and (min-width: 300px){
+.js-swiper-brands .slide-container {
+    width: 100px!important; 
+}
+.service-item-container{padding: 0!important;}
+.service-item-container .col-auto{padding-left: 0!important;}
+.section-informative-banners .col-auto:before{width: 60px;height: 60px}
+}
 
 @media (min-width: 1400px) {
   .js-home-main-slider-container {
@@ -133,14 +141,6 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
     fill: #fff!important;
 }
 
-@media screen and (max-width: 768px) and (min-width: 300px){
-.js-swiper-brands .slide-container {
-    width: 100px!important; 
-}
-.service-item-container{padding: 0!important;}
-.service-item-container .col-auto{padding-left: 0!important;}
-.section-informative-banners .col-auto:before{width: 60px;height: 60px}
-}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
