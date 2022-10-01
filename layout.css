@@ -129,17 +129,13 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
 .modal-close{border: 0!important;top: 14px;}
 .radio-button-icons-container {left: -1px;}
 .radio-button-content{padding: 19px;}
-
-@media (min-width: 768px)
-.js-swiper-brands .slide-container {
-    max-width: 120px!important;
-}
-@media (min-width: 576px)
-.js-swiper-brands .slide-container {
-    max-width: 120px!important;
-}
 .nav-secondary .nav-account svg {
     fill: #fff!important;
+}
+
+@media screen and (max-width: 768px) and (min-width: 576px)
+.js-swiper-brands .slide-container {
+    width: 100px!important;
 }
 /* .search-input-submit:before {
     content: "pesquisar";
