@@ -77,6 +77,11 @@ background: rgb(255, 255, 255, 0.8)!important;
 .js-home-main-slider-container {
     max-width: 540px!important;
 }
+@media screen (min-width: 900px){
+.js-home-main-slider-container .nube-slider-home {height: 100%;max-height: 362px;}
+.js-home-main-slider-container .swiper-slide, .swiper-wrapper, .slider-slide{height: auto;max-height: 450px;}
+.js-home-main-slider-container .slider-image {object-fit: contain;}
+}
 .js-home-main-slider-container{
     width: 100%;
     padding-right: 15px;
