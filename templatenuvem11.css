@@ -156,7 +156,7 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
     opacity: 0.9;
 }
 .textbanner-link:hover .textbanner-text-primary {border: 1px solid rgb(0, 0, 0, 0.07)!important;}
-.textbanner-paragraph {margin: 10px;}
+.textbanner-paragraph {margin: 10px 0;}
 /* .search-input-submit:before {
     content: "pesquisar";
     color: #FFF;
