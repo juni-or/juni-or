@@ -165,11 +165,12 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
 .store-bar {
     background: rgb(255, 255, 255, 0.8)!important;
     backdrop-filter: blur(7px)!important;
-    border-top: 1px solid #fff;
-    color: black;
+    border-top: 1px solid #fff!important;
+    color: black!important;
 }
-.misc-shape-1, .misc-shape-2, .misc-shape-3 {display: none;}
-.store-bar .svg-icon {fill: #000;}
-.store-bar a {color: #000;}
-.store-bar a:hover {color: #000;}
+.misc-shape-1, .misc-shape-2, .misc-shape-3 {display: none!important;}
+.store-bar .svg-icon {fill: #000!important;}
+.store-bar a {color: #000!important;}
+.store-bar a:hover {color: #000!important;}
+
 
