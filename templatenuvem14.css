@@ -47,8 +47,7 @@ background: rgb(255, 255, 255, 0.8)!important;
 }
 .svg-icon-text.svg-solid svg {font-size: 1.3em;}
 
-@media screen and (max-width: 768px) and (min-width: 300px){
-.slider-slide img {border-radius: 0px!important;}
+@media screen and (max-width: 768px) and (min-width: 200px){
 .js-swiper-brands .slide-container {width: 100px!important;}
 .swiper-wrapper[style="transition: all 0ms ease 0s; transform: translate3d(-2357.33px, 0px, 0px);"] {transform: translate3d(0px, 0px, 0px)!important;transition: all 100ms ease 0s!important;}
 .service-item-container{padding: 0!important;}
