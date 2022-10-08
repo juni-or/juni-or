@@ -54,7 +54,16 @@ background: rgb(255, 255, 255, 0.8)!important;
 .service-item-container .col-auto {padding-left: 0!important;}
 .service-item-container .service-item {margin: -4px -4px 0 -4px;}
 .section-informative-banners .col-auto:before{width: 60px!important;height: 60px!important;}
-
+.oversize {
+    overflow-x: auto;
+    border: 1px solid rgba(0,0,0,.06);
+    text-align: center;
+    border-radius: 8px;
+    border-collapse: separate;
+}
+.oversize table .paginadeprodutos{
+border: 0px
+}
 }
 
 @media (min-width: 1400px) {
