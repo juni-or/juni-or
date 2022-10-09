@@ -180,5 +180,7 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
 .store-bar .svg-icon {fill: #000!important;}
 .store-bar a {color: #000!important;}
 .store-bar a:hover {color: #000!important;}
-
+.headbar-logo-img {
+    filter: invert(1)!important;
+}
 
