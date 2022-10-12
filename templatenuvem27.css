@@ -182,9 +182,15 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
 .store-bar a:hover {color: #000!important;}
 .js-notification-status-page a, .js-notification-status-page a svg {
     color: #FFF!important;
-    fill: #FFF!important;
 }
-
+.js-notification-close.js-notification-status-page-close svg {
+    background: #FFF;
+    padding: 3px;
+    fill: #083fb3!important;
+    width: 20px!important;
+    height: 20px!important;
+    border-radius: 100%;
+}
 .desktop-dropdown::-webkit-scrollbar {width: 4px!important;}
 .desktop-dropdown::-webkit-scrollbar-thumb {background: #000000!important;}
 .desktop-dropdown::-webkit-scrollbar-track {background: transparent!important;}
