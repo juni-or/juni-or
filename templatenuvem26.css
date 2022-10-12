@@ -35,7 +35,7 @@ background: rgb(255, 255, 255, 0.8)!important;
     background-color: #FFF;
     box-shadow: 0px 3px 7px rgb(0 0 0 / 10%)!important;
 }
-.notification-primary a, .notification-primary a svg, .head-primary svg, .js-utilities-item svg, .head-primary .utilities-item svg, .nav-list-link, .nav-list-link svg, .js-notification-status-page a, .js-notification-status-page a svg {
+.notification-primary a, .notification-primary a svg, .head-primary svg, .js-utilities-item svg, .head-primary .utilities-item svg, .nav-list-link, .nav-list-link svg {
     color: #000!important;
     fill: #000!important;
 }
@@ -180,6 +180,10 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
 .store-bar .svg-icon {fill: #000!important;}
 .store-bar a {color: #000!important;}
 .store-bar a:hover {color: #000!important;}
+.js-notification-status-page a, .js-notification-status-page a svg {
+    color: #FFF!important;
+    fill: #FFF!important;
+}
 
 .desktop-dropdown::-webkit-scrollbar {width: 4px!important;}
 .desktop-dropdown::-webkit-scrollbar-thumb {background: #000000!important;}
