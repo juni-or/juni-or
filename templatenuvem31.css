@@ -62,7 +62,7 @@ background: rgb(255, 255, 255, 0.8)!important;
     border-collapse: separate;
 }
 .oversize.azul{border: 1px solid #083fb3;}
-.oversize .paginadeprodutos{border: 0px;display: unset;}
+.oversize .paginadeprodutos, .oversize .paginadeprodutos.azul{border: 0px;}
 }
 
 @media (min-width: 1400px) {
