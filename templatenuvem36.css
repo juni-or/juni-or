@@ -63,8 +63,8 @@ background: rgb(255, 255, 255, 0.8)!important;
 }
 .oversize.azul{border: 1px solid #083fb3;}
 .oversize .paginadeprodutos, .oversize .paginadeprodutos.azul{border: 0px;}
-.category-banner-header {margin: -70px 15px 20px 15px;}
-.category-banner-header .page-header {margin: -15px 0 0 0;}
+.category-banner-header {margin: -70px 15px 20px 15px!important;}
+.category-banner-header .page-header {margin: -15px 0 0 0!important;}
 }
 
 @media (min-width: 1400px) {
