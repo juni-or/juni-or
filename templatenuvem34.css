@@ -222,3 +222,6 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid {
     font-weight: bold;
     font-size: 12px;
 }
+.category-banner-header .page-header {
+    margin: 20px 0 0 0;
+}
