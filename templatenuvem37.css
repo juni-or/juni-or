@@ -65,6 +65,8 @@ background: rgb(255, 255, 255, 0.8)!important;
 .oversize .paginadeprodutos, .oversize .paginadeprodutos.azul{border: 0px;}
 .category-banner-header {margin: -70px 15px 20px 15px!important;}
 .category-banner-header .page-header {margin: -15px 0 0 0!important;}
+.slider-slide img {border-radius: 0px!important;}
+.slider-image {object-fit: fill;}    
 }
 
 @media (min-width: 1400px) {
@@ -103,7 +105,7 @@ background: rgb(255, 255, 255, 0.8)!important;
     margin-top: 20px;
 }
 .slider-slide img {
-    border-radius: 8px!important;
+    border-radius: 8px;
 }
 section[data-store="slider-main"] .svg-icon-text.svg-solid {
     background: transparent;
