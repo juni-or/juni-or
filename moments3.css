@@ -2,9 +2,14 @@
 
 /* ESTRUTURA */
 
-@media (min-width: 768px)
+/*@media (min-width: 768px)
 .container-fluid {
     padding: 0 200px!important;
+}*/
+@media (min-width: 768px)
+.container-fluid {
+    padding: 0 40px;
+    max-width: 1500px;
 }
 
 /* SEARCH MODAL */
