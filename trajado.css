@@ -30,3 +30,8 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
 }
+/* QUICKSHOP */
+.item .item-btn-quickshop {
+    background-color: #ffffff;
+    fill: #687279;
+}
