@@ -35,3 +35,6 @@
     background-color: #ffffff;
     fill: #687279;
 }
+.item .item-btn-quickshop:hover {
+    fill: #fff;
+}
