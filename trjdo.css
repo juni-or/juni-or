@@ -33,3 +33,6 @@
 .item .item-btn-quickshop:hover {
     fill: #fff;
 }
+footer .js-modal-open:hover svg {
+    fill: #f77f00;
+}
